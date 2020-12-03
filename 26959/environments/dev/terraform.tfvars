@@ -1,0 +1,2 @@
+prefix   = "plugindev"
+location = "westeurope"
